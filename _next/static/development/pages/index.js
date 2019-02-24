@@ -29,6 +29,7 @@ var Navigation = function Navigation() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/",
+    as: "".concat("", "/"),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
@@ -42,7 +43,8 @@ var Navigation = function Navigation() {
     },
     __self: this
   }, "Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "stakeholder",
+    href: "/stakeholder",
+    as: "".concat("", "/stakeholder"),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -56,7 +58,8 @@ var Navigation = function Navigation() {
     },
     __self: this
   }, "Stakeholder")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "guardian",
+    href: "/guardian",
+    as: "".concat("", "/guardian"),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -10002,7 +10005,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!********************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Findex.js ***!
   \********************************************************************************************************************************************************************************************************/
@@ -10025,5 +10028,5 @@ module.exports = dll_4d62ad301d4c9a40eec7;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map

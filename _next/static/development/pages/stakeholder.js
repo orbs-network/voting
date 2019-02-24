@@ -29,6 +29,7 @@ var Navigation = function Navigation() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/",
+    as: "".concat("", "/"),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
@@ -42,7 +43,8 @@ var Navigation = function Navigation() {
     },
     __self: this
   }, "Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "stakeholder",
+    href: "/stakeholder",
+    as: "".concat("", "/stakeholder"),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -56,7 +58,8 @@ var Navigation = function Navigation() {
     },
     __self: this
   }, "Stakeholder")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "guardian",
+    href: "/guardian",
+    as: "".concat("", "/guardian"),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15

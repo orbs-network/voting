@@ -4564,7 +4564,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_4d62ad301d4c9a40eec7
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!********************************************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
   \********************************************************************************************************************************************************************************************************************************************/
@@ -4587,5 +4587,5 @@ module.exports = dll_4d62ad301d4c9a40eec7;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=_error.js.map
