@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/guardian.js"],{
 
 /***/ "./components/Navigation.js":
 /*!**********************************!*\
@@ -5720,21 +5720,21 @@ exports.formatWithValidation = formatWithValidation;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Findex.js!./":
-/*!****************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Findex.js ***!
-  \****************************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fguardian&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Fguardian.js!./":
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fguardian&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Fguardian.js ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/", function() {
-      var page = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js")
+    (window.__NEXT_P=window.__NEXT_P||[]).push(["/guardian", function() {
+      var page = __webpack_require__(/*! ./pages/guardian.js */ "./pages/guardian.js")
       if(true) {
-        module.hot.accept(/*! ./pages/index.js */ "./pages/index.js", function() {
-          if(!next.router.components["/"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js")
-          next.router.update("/", updatedPage.default || updatedPage)
+        module.hot.accept(/*! ./pages/guardian.js */ "./pages/guardian.js", function() {
+          if(!next.router.components["/guardian"]) return
+          var updatedPage = __webpack_require__(/*! ./pages/guardian.js */ "./pages/guardian.js")
+          next.router.update("/guardian", updatedPage.default || updatedPage)
         })
       }
       return { page: page.default || page }
@@ -9953,10 +9953,10 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ "./pages/guardian.js":
+/*!***************************!*\
+  !*** ./pages/guardian.js ***!
+  \***************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9965,7 +9965,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Navigation__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Navigation */ "./components/Navigation.js");
-var _jsxFileName = "/Users/bolshchikov/Documents/src/github.com/orbs-network/orbs-ethereum-contracts/Voting/client-web/pages/index.js";
+var _jsxFileName = "/Users/bolshchikov/Documents/src/github.com/orbs-network/orbs-ethereum-contracts/Voting/client-web/pages/guardian.js";
 
 // This is the Link API
 
@@ -9989,27 +9989,27 @@ var Index = function Index() {
       lineNumber: 7
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
-  }, "Welcome to Orbs Voting")));
+  }, "Hello Guardian")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ }),
 
-/***/ 1:
-/*!********************************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Findex.js ***!
-  \********************************************************************************************************************************************************************************************************/
+/***/ 4:
+/*!*******************************************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fguardian&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Fguardian.js ***!
+  \*******************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fguardian&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Fguardian.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fguardian&absolutePagePath=%2FUsers%2Fbolshchikov%2FDocuments%2Fsrc%2Fgithub.com%2Forbs-network%2Forbs-ethereum-contracts%2FVoting%2Fclient-web%2Fpages%2Fguardian.js!./");
 
 
 /***/ }),
@@ -10025,5 +10025,5 @@ module.exports = dll_4d62ad301d4c9a40eec7;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
-//# sourceMappingURL=index.js.map
+},[[4,"static/runtime/webpack.js"]]]));;
+//# sourceMappingURL=guardian.js.map
