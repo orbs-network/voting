@@ -1,13 +1,13 @@
 {
   "main.css": "/voting/static/css/main.e8759cda.chunk.css",
-  "main.js": "/voting/static/js/main.a7d26683.chunk.js",
-  "main.js.map": "/voting/static/js/main.a7d26683.chunk.js.map",
+  "main.js": "/voting/static/js/main.ecc9184d.chunk.js",
+  "main.js.map": "/voting/static/js/main.ecc9184d.chunk.js.map",
   "runtime~main.js": "/voting/static/js/runtime~main.391abd45.js",
   "runtime~main.js.map": "/voting/static/js/runtime~main.391abd45.js.map",
   "static/js/2.7fbf6ae9.chunk.js": "/voting/static/js/2.7fbf6ae9.chunk.js",
   "static/js/2.7fbf6ae9.chunk.js.map": "/voting/static/js/2.7fbf6ae9.chunk.js.map",
   "index.html": "/voting/index.html",
-  "precache-manifest.89b2b34583da5b6acd4c0122e6712187.js": "/voting/precache-manifest.89b2b34583da5b6acd4c0122e6712187.js",
+  "precache-manifest.38a54c3622ef4ac8613c2028f2300a53.js": "/voting/precache-manifest.38a54c3622ef4ac8613c2028f2300a53.js",
   "service-worker.js": "/voting/service-worker.js",
   "static/css/main.e8759cda.chunk.css.map": "/voting/static/css/main.e8759cda.chunk.css.map",
   "static/media/logo-white.svg": "/voting/static/media/logo-white.e59b3ac9.svg"
